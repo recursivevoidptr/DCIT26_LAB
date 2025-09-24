@@ -7,4 +7,4 @@
 </div>
 
 > [!NOTE]
-> My digital garden for dcit 26 laboratories.
+> My digital garden for **DCIT 26** laboratories.
